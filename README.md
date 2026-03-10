@@ -28,7 +28,7 @@ This is the **LTV (Linear Time-Varying) Drive system** for the Tabi robot. It is
 
 ---
 
-## How to Use
+## How to Use This
 
 1. Create a new LTV command with a target:
 ```java
